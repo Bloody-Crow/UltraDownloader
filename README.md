@@ -88,6 +88,3 @@ chmod +x launch.sh
 
 ### Firefox Permission Denied:
 *   Ubuntu installs Firefox as a "Snap" package by default, which blocks external apps from reading cookies.
-
-# UltraDownloader
-# UltraDownloader
