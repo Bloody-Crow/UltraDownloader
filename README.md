@@ -49,7 +49,7 @@ sudo apt update && sudo apt install ffmpeg nodejs phantomjs python3-venv -y
 
 **1. Clone the repository and go to the directory:**
 ```
-git clone https://github.com/YOUR_USERNAME/UltraDownloader.git
+git clone https://github.com/bloody-crow/UltraDownloader.git
 cd UltraDownloader
 ```
 
@@ -87,4 +87,4 @@ chmod +x launch.sh
 *   The app uses a custom logger to suppress this warning if it doesn't affect download speed.
 
 ### Firefox Permission Denied:
-*   Ubuntu installs Firefox as a "Snap" package by default, which blocks external apps from reading cookies.
+*   Ubuntu installs Firefox as a "Snap" package by default, which blocks external apps from reading cookies. Uninstall and Install Firefox again or use Chrome, Chromium or Brave.
